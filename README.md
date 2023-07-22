@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Isabelle Figueiredo
 
-- ⚡ Fun fact: Sou nova aqui ^_^
 
 <div align="center">
   <a href="https://github.com/IsaFigueiredo">
